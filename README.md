@@ -4,7 +4,7 @@ This is a J2EE Web App for Student Management using Spring MVC - Spring Data JPA
 ## Installation
 springproject.sql contains the tables you need to run the application
 
-Run the sql script in whatever database server you are using
+Run the sql script in the MySQL server you are using
 
 Unzip and import into Eclipse IDE 
 
